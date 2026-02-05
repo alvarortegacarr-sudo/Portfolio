@@ -57,6 +57,10 @@ To customize this portfolio for your own use:
 ## 📫 Contact
 
 - **Email**: alvarortegacarr@gmail.com
+<<<<<<< HEAD
+=======
+- **Phone**: 652589669
+>>>>>>> 45d499a699f6d23c82752678a6621a16701913de
 - **Location**: Molina De Segura
 
 ## 📄 License

@@ -56,9 +56,9 @@ To customize this portfolio for your own use:
 
 ## 📫 Contact
 
-- **Email**: alvaroitegacar@gmail.com
-- **Phone**: 652088653
-- **Location**: Marina de Sagres
+- **Email**: alvarortegacarr@gmail.com
+- **Phone**: 652589669
+- **Location**: Molina De Segura
 
 ## 📄 License
 
